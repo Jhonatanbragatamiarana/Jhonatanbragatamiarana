@@ -12,17 +12,11 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="linkedin.com/in/jhonatan-braga-b269ab2b8"_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/seu-instagram" target="_blank">
+  <a href="https://www.instagram.com/jhonxl01/profilecard/?igsh=bm82bGNjeXpwdm5z="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://facebook.com/seu-facebook" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="35" alt="facebook logo" />
-  </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="35" alt="gmail logo" />
   </a>
 </div>
 
