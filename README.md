@@ -12,7 +12,7 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/jhonatan-braga-b269ab2b8"_blank">
+  <a href="https://www.linkedin.com/in/jhonatan-braga-b269ab2b8/="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/jhonxl01/profilecard/?igsh=bm82bGNjeXpwdm5z="_blank">
